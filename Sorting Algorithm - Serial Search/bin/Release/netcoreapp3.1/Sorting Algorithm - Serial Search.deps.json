@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sorting Algorithm - Serial Search/1.0.0": {
+        "runtime": {
+          "Sorting Algorithm - Serial Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting Algorithm - Serial Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

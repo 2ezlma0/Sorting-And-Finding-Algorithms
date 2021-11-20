@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\eastnorfolk.ac.uk\\Students\\Home\\start2021\\59572\\VSC\\projects\\CBlock\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search.csproj": {}
+  },
+  "projects": {
+    "\\\\eastnorfolk.ac.uk\\Students\\Home\\start2021\\59572\\VSC\\projects\\CBlock\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\eastnorfolk.ac.uk\\Students\\Home\\start2021\\59572\\VSC\\projects\\CBlock\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search.csproj",
+        "projectName": "Sorting Algorithm - Serial Search",
+        "projectPath": "\\\\eastnorfolk.ac.uk\\Students\\Home\\start2021\\59572\\VSC\\projects\\CBlock\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search.csproj",
+        "packagesPath": "C:\\Users\\59572\\.nuget\\packages\\",
+        "outputPath": "\\\\eastnorfolk.ac.uk\\Students\\Home\\start2021\\59572\\VSC\\projects\\CBlock\\Sorting Algorithm - Serial Search\\Sorting Algorithm - Serial Search\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\59572\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
